@@ -1,0 +1,50 @@
+
+
+header {
+    background-color: #393E46;
+    color: #EEEEEE;
+    padding: 1rem;
+
+}
+.navbar-brand{
+    font-size: 2rem;
+}
+
+
+
+main {
+    padding: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+
+.btn{
+    width: 100%;
+}
+
+footer {
+    background-color: #393E46;
+    color: #EEEEEE;
+    padding: 10px;
+    text-align: center;
+}
+
+
